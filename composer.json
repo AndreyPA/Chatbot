@@ -25,7 +25,7 @@
     "repositories": [
         {
           "type": "vcs",
-          "url": "https://github.com/AndreyPA/apovolotskiy" 
+          "url": "https://github.com/AndreyPA/Chatbot" 
         }
     ]
 }
